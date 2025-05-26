@@ -19,6 +19,7 @@ int main() {
     float areaCidade1, areaCidade2; // Area das Cidades
     float pibCidade1, pibCidade2; // Pib das cidades
 
+    printf("Hello Github");
 
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
